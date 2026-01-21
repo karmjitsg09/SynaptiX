@@ -1,0 +1,7 @@
+{
+  "name": "SynaptiX: Holographic Gesture Interface",
+  "description": "An Iron Man style gesture-controlled drawing application that uses MediaPipe for hand tracking to create glowing holographic neon lines in the air.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
